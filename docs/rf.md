@@ -17,4 +17,4 @@ O usuario pode cadastrar novos produtos no sistema
 O usuario pode excluir o produto
 
 ### RF06 - Envio de planilhas do estoque
-O sistema permite envio de planilhas com o controle do estoque
+O sistema permite envio de planilhas com o controle do estoque.
