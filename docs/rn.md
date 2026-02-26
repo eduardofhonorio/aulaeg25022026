@@ -16,4 +16,5 @@ So usuarios gerenciadors pode incluir, excluir produtos e enviar documentos
 Usuario não pode adicionar o mesmo produto 
 
 ### RN05 - Preencher todo documento
-Usuario tem que 
+Usuario tem que preencher todo documento antes de envia
+
